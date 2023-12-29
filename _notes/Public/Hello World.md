@@ -3,7 +3,8 @@ title : 🌎 Hello World
 feed: show
 date : 22-12-2023
 ---
- 
+ ```28 December 2023 | Denver, Colorado```
+
 Welcome to my humble plot of bits and pixels. 
 
 The purpose of this site is to force me to think and build in public.&#x20;
