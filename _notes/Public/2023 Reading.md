@@ -1,16 +1,13 @@
 ---
-title: Library
+title : 📚 2023 Reading
 feed: show
-date: 28-12-2023
-permalink: /library
-format: list
+date : 29-12-2023
 ---
-
-### 2023 Reading
+ ```29 December 2023 | Denver, Colorado```
 
 *I have, once again, managed to squeak across the finish line of another annual reading goal. I afforded myself the ability to count both physical and audio books this year, so 'reading' is interpreted liberally as inclusive of multiple modalities of input. I am overall pleased with the majority of what I selected. On the whole, my body of reading this year was wide ranging and optimized for quality over quantity. Read on for takeaways and context on specific titles.*&#x20;
 
-![](https://ik.imagekit.io/typeai/tr:w-1200,c-at_max/img_ef8oaiRK0E1yYfg1EI.jpg){ width=480px }
+![](https://ik.imagekit.io/typeai/tr:w-1200,c-at_max/img_ef8oaiRK0E1yYfg1EI.jpg)
 
 
 
@@ -36,3 +33,6 @@ format: list
 20. **"How Big Things Get Done" by Bent Flyvbjerg, Dan Gardner** - I saw this on a few of the business papers' lists and picked it up. Well researched, approachable, with a straightforward argument. A great and relatable take on how big projects go awry and fail often, and how to avoid common pitfalls.&#x20;
 
 Aside from books, I read a \_lot\_ of content on X. In terms of traditional media, my dailies were the Financial Times, WSJ, and NYT. In terms of long form, I discovered [Palladium](https://www.palladiummag.com/) this year and found myself reading it periodically alongside the New Yorker and American Affairs Journal. The top newsletters I consumed - Ahead of AI, The Diff, Jack Clark, Marginalian by Maria Popova, Pirate Wires by Mic Solana. In print, I discovered [Drift](https://www.driftmag.com/) on coffee and [Mountain Gazette](https://mountaingazette.com/). &#x20;
+
+\<br>&#x20;
+
