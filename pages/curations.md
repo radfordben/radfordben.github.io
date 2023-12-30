@@ -4,4 +4,4 @@ permalink: /curations
 title: Curations
 content-type: static
 ---
-Ben Radford curates yaks.
+Under construction.
