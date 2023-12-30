@@ -13,7 +13,7 @@ I intend to cultivate three primary form factors of information here: *words*, *
 
 **[Words](/words)** will vary along a gradient of 'completeness' - less structured musings of various lengths on one end and more refined essays on the other.&#x20;
 
-**[Ideas](/ideas)** could be one sentence, a pitch, or a prototype. Some ideas should [convert to words](https://www.paulgraham.com/words.html). Others should manifest in a venture. Many should die. All should be capture in some way.&#x20;
+**[Ideas](/ideas)** could be one sentence, a pitch, or a prototype. Some ideas should [convert to words](https://www.paulgraham.com/words.html). Others should manifest in a venture. Many should die. All should be captured in some way.&#x20;
 
 **[Curations](/curations)** are living lists of embodied quality within a given domain. Their purpose is threefold: to collect them for my own reference, to share with others interested, and as a hat tip to the creators.&#x20;
 
