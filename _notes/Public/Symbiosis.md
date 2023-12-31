@@ -1,11 +1,44 @@
 ---
-title : 🚧 Symbiosis
-feed: hide
+title : 🤝 Symbiosis
+feed: show
 date : 22-12-2023
 ---
+ ```30 December 2023 | Denver, Colorado```
  
-*asterisks* 
+#### *Man and Machina*&#x20;
 
-Lorem ipsum
+We are undergoing an inflection point in human-machine interaction.
 
-More lorem ipsum 
+The ways we query and retrieve information, how we produce all modalities of data, the parts of our body used to summon machines, and how machines process our intake all feel disrupted or on the cusp of being so. Is man optimizing machine or is machine melting into man?&#x20;
+
+I’ve been more acutely and consciously aware of, and therefore thinking about, interface design lately. The intersections of technology and biology are increasingly all around us and defining how we navigate the world. Conceptually, it’s one of those things where once you see it, you can’t unsee it.&#x20;
+
+I recall a [Karpathy tweet](https://twitter.com/karpathy/status/1519010171376521216) describing the keyboard and mouse as the 'API' we've become accustomed to as the primary way to interface with compute. It's a resonant analogy. Extending beyond the fingers and keys, we’re now entering a world in which increasingly sophisticated interfaces exist for human computer interaction mediated through the eyes (e.g. mixed reality headsets), voice (e.g. performant speech to text and live streaming translation), and implicit signals (e.g. health-focused wearables, Neuralink).&#x20;
+
+The best *physical* 'API' design for humans to interact with compute should feel **symbiotic**. Take the case of Tesla’s full self driving beta technology. To start the dance, I explicitly decide to enter into an interaction with it. The sensation is like flipping on a lightswitch. In this act, I paradoxically surrender some degree of control, and make an act of implicit trust. I subliminally feel a heightened state of consciousness. Internally, I’m asking questions of the machine, curious to observe its behavior, comparing it to my own. I don’t need to know explicitly how it’s making decisions, and acknowledge the impossibility of intuitively understanding its weights. I nudge it, it nudges me. We do this give and take of surrendering some measure of full autonomy, implicitly distrusting ourselves and acknowledging our limitations. I yearn for more, imagining ways of taking the system to the next level. At times, the balance of control feels yielded to the machine. In other instances, I feel as if I am overtly coaxing it into submission or further degrees of performance. On a few occasions, I somewhat strangely feel a sense of pride when it navigates a tricky situation. Recently, when navigating a residential street lined on both sides with parked cars at night, I watched as the system detected an oncoming car with the gap too narrow for both vehicles. I sat with a sense of smug satisfaction as my autopilot gracefully navigated itself out of the way and yielded to the other car, almost with a flicker of the headlamps to indicate to the other driver that it was their turn to come through. How acutely aware and selfless.&#x20;
+
+At this state of progress, while we are nowhere close to general intelligence nor is there a clear public path to it yet, we are absolutely in an era of what [Ethan Mollick](https://mgmt.wharton.upenn.edu/profile/emollick/) has brilliantly called [*co-intelligence*](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/), and are in the early minutes of grappling with what it means for us.&#x20;
+
+In the age of co-intelligence, we should certainly co-evolve with the tools we create as we discover their capabilities and limitations, and measure them and ourselves against each other. We invent the tools and they shape us. In the creative act of building these systems, we have an implicit drive to make them in our image. Is it hubristic that we look to the mirror for our goal to measure our creations by? This is not solely a phenomenon of the field pursuing general intelligence. We see this in robotics, speech recognition, and vision. The arc of these developments follows a recognizable pattern. We generalize (i.e. foundation models) then pursue specialty through domain specific adaptations or applications (e.g. finetune on relevant corpora and tasks for specific verticals like legal, medical, art).
+
+Several of the terms of art used commonly even evoke a parental association with the field's collective creations such as the concept of 'training' a model to 'learn' representations of input and output. Leading artificial intelligence researchers speak about the feeling of responsibility, admiration, fear, and excitement for their 'baby' neural networks navigating out in the world. If the development of artificial intelligence can be seen as man's errand to first understand, then recreate the biological brain, it should follow that the principles and techniques we apply to mold the biological child's mind and the neural network's are similar. We first show a child examples of pictures (sparse representations of reality), then language (symbolic means of encoding information), then they can test what they learn in the world and develop their own tools for gathering information. Unlike artificial neural networks, they can't be forced nor are we able to set the functions they optimize for. Guided by their own curiosity and intrinsic reward system, once they learn how to find information and convert it into their own knowledge base to act upon it, they can be turned loose on the world to consume to their contentment.&#x20;
+
+It is a rare occurrence to observe what happens to the incumbent state of the world when a new powerful thing shows up seemingly out of nowhere. The reality is this is an inflection point in a decades long incremental pursuit of many disciplines and fields. The progression of human behavior we will observe will unfold along a trajectory that will be of interest to any sociologist or anthropologist of modern man. Not unlike observing how man in the cave wielded fire or used the wheel, the first year of powerful large language models in the wild elicited a spectrum of responses from premature exuberance to unbounded fear. The reactions predictably range from opportunism to practical application to doomsday prediction. Much of today's zeitgeist misses the trees for the forest. In alarmist fearmongering, the dialogue is too abstracted from today's practical realities to be useful. In pursuit of accelerationist opportunism, the techno-optimists have even gone too far too fast. There is a happy medium somewhere in the middle, which in a coming phase of the hype cycle perhaps we will revert to. Maybe I am naiive, shortighted, or pollyannaish but in our haste to usher in a new era with the tech applied at its limit, we've hardly taken a breath to appreciate and admire the tangible net improvements in tooling *today.* The world has changed, incontrovertibly for the better. Even if these tools only yield an 80% improvement with 20% human intervention needed, how incredible of a boost to be celebrated. Human cognition could be augmented on an lightning timeline, if adoption follows suit. John Adams famously wrote in a letter to his wife:
+
+"*I must study politics and war that my sons may have liberty to study mathematics and philosophy. My sons ought to study mathematics and philosophy...in order to give their children a right to study painting, poetry, music, architecture, statuary, tapestry, and porcelain."*
+
+The modern day corollary could be "*I must study neural networks and GPUs that my children may have liberty to study and do whatever they derive fulfillment from and contribute to society with, augmented with state of the art technology.*"
+
+Individuals will not be the only unit of humanity shaped by the tools, this dynamic will apply to the collective - our institutions and industries - as well. Today's world was forged by the last era of technology and is designed around tools that were engineered to do the same thing reliably. Introducing inherently predictive systems that we don't understand nor know how to control reliably (yet) will require adaptation and designing on top of a new engine - one with fundamentally different properties than the last.&#x20;
+
+It is unprecedented for a technology to emerge that makes one question and rethink not one thing, but everything. The television called into question the low dimensional entertainment value of the radio. The smartphone called into question the efficacy of the landline. These replacement cycles take years or decades. The emergent properties of generative AI models make you question *everything* all at once. Every non-LLM backed system or task feels archaic overnight.&#x20;
+
+In an exercise in a high school class during my senior year, the teacher asked students to write down one wish they had for the world, seal it in an envelope, which would be mailed to their future selves decades later. After the envelopes were sealed, someone raised a hand and asked the teacher what her wish was. Her response has stuck with me ever since. She wished that a technology would be invented that could store all of the world's information on a small enough device to download into a human brain. Why? Her wish was that we could all instantly start from a common baseline of the sum total of human knowledge and advance the frontier from there, rather than everyone spending decades relearning the same material to have a chance to discover new information.&#x20;
+
+The technology may have arrived in a different package, but it is here. What will you do and discover with this wild and wonderful tool?
+
+
+
+
+
+
