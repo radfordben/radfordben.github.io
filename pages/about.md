@@ -11,4 +11,4 @@ Previously, he worked on building an ML platform and applied research at [Twitte
 
 In the public sector, Ben led data operations at the Department of Defense's pathfinding applied AI initiative and served as a Marine Corps intelligence officer supporting unmanned aviation and crisis response operations in Europe and Africa. 
 
-He lives in Colorado with his wife and daughters where he loves trail running, racing triathlons, and skiing.
+He lives in Colorado with his wife and daughters where he loves trail running, cycling, and skiing.
